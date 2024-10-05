@@ -1,3 +1,6 @@
+> [!WARNING]  
+> Repository moved to https://github.com/gomzyakov/achievements
+
 # Volledige lijst van alle GitHub-profielbadges en prestaties
 
 #### Het tonen van prestaties op je profiel is volledig optioneel; standaard kunnen ze door iedereen gezien worden op je publieke profiel.
